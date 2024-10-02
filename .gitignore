@@ -1,2 +1,5 @@
 session.vim
 .undodir
+build
+*.py[cod]
+*.swp
